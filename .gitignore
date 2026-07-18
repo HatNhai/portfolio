@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+
+# EF Core / SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Uploads (runtime)
+src/Portfolio.Api/wwwroot/assets/uploads/
+
+# OS
+Thumbs.db
+.DS_Store
